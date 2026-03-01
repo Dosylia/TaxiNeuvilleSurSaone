@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+# Allow crawling of main pages
+Allow: /index.html
+Allow: /services.html
+Allow: /apropos.html
+Allow: /contact.php
+Allow: /reservation.php
+Allow: /mentions-legales.html
+
+# Disallow crawling of backend files and directories
+Disallow: /vendor/
+Disallow: /js/
+Disallow: *.php$
+Disallow: /contact-handle.php
+Disallow: /reservation-handle.php
+
+# Allow crawling of CSS and image files for proper rendering
+Allow: /style.css
+Allow: /img/
+
+# Sitemap location
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Crawl delay (optional - 1 second between requests)
+Crawl-delay: 1

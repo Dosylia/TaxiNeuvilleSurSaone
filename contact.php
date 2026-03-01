@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Taxi Neuville sur Saône - Contact</title>
+    <meta name="description" content="🚕 Service de taxi et VSL à Neuville-sur-Saône, Genay, Fleurieu-sur-Saône, Rochetaille, Albigny, Fontaine-sur-Saône, Couzon-au-mont-d'Or. Transport aéroport Lyon, gare Part-Dieu. Réservation 24h/24.">
+    <meta name="keywords" content="taxi Neuville sur Saône, taxi Genay, taxi Fleurieu sur Saône, taxi Rochetaille sur Saône, taxi Albigny sur Saône, taxi Fontaine sur Saône, taxi Couzon au mont d'Or, taxi Poleymieu au mont d'or, taxi Fontaine saint Martin, taxi Cailloux-sur-Fontaine, VSL transport sanitaire, taxi aéroport Lyon, taxi gare Part-Dieu, transport médical, réservation taxi en ligne, Van Butsele Gérard">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO avancé et optimisation IA -->
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <meta name="author" content="Taxi Neuville-sur-Saône">
+    <meta name="geo.region" content="FR-ARA">
+    <meta name="geo.placename" content="Neuville-sur-Saône, Rhône, Auvergne-Rhône-Alpes">
+    <meta name="geo.position" content="45.8736;4.8406">
+    <meta name="ICBM" content="45.8736, 4.8406">
+    
+    <!-- Open Graph pour partage social -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Taxi Neuville-sur-Saône | Service 24h/7j | Genay, Fleurieu, Rochetaille">
+    <meta property="og:description" content="Service de taxi professionnel dans le Rhône Nord. Desserte Neuville-sur-Saône, Genay, Fleurieu, Rochetaille, Albigny, Fontaine-sur-Saône. Transport aéroport et VSL.">
+    <meta property="og:url" content="https://taxi-neuvillesursaone.fr/">
+    <meta property="og:site_name" content="Taxi Neuville-sur-Saône">
+    <meta property="og:locale" content="fr_FR">
+    
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Taxi Neuville-sur-Saône | Genay, Fleurieu, Rochetaille">
+    <meta name="twitter:description" content="Service de taxi et VSL dans le Rhône Nord. Transport aéroport Lyon, gare Part-Dieu. Réservation 24h/24.">
+    
+    <!-- Données structurées enrichies -->
+    <link rel="canonical" href="https://taxi-neuvillesursaone.fr/contact">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="img/favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <script src="https://www.google.com/recaptcha/api.js?render=6LeAdf8rAAAAAD7Dj6jmFp-qW9OOSU5ohIuyeTm5"></script>
+    
+    <!-- Schema.org JSON-LD optimisé pour IA -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "LocalBusiness",
+                "@id": "https://taxi-neuvillesursaone.fr/#business",
+                "name": "Taxi Neuville-sur-Saône",
+                "description": "Service de taxi et transport VSL professionnel dans le Rhône Nord. Desserte de Neuville-sur-Saône, Genay, Fleurieu-sur-Saône, Rochetaille-sur-Saône, Albigny-sur-Saône, Fontaine-sur-Saône, Couzon-au-mont-d'Or, Poleymieu-au-mont-d'or, Fontaine-saint-Martin, Cailloux-sur-Fontaine.",
+                "url": "https://taxi-neuvillesursaone.fr/",
+                "telephone": "+33783615926",
+                "email": "sasutaxi6901@gmail.com",
+                "priceRange": "€€",
+                "paymentAccepted": ["Cash", "Credit Card", "Debit Card"],
+                "currenciesAccepted": "EUR",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Neuville-sur-Saône",
+                    "addressLocality": "Neuville-sur-Saône",
+                    "postalCode": "69250",
+                    "addressRegion": "Auvergne-Rhône-Alpes",
+                    "addressCountry": "FR"
+                },
+                "geo": {
+                    "@type": "GeoCoordinates",
+                    "latitude": "45.8736",
+                    "longitude": "4.8406"
+                },
+                "areaServed": [
+                    {
+                        "@type": "City",
+                        "name": "Neuville-sur-Saône"
+                    },
+                    {
+                        "@type": "City", 
+                        "name": "Genay"
+                    },
+                    {
+                        "@type": "City",
+                        "name": "Fleurieu-sur-Saône"
+                    },
+                    {
+                        "@type": "City",
+                        "name": "Rochetaille-sur-Saône"
+                    },
+                    {
+                        "@type": "City",
+                        "name": "Albigny-sur-Saône"
+                    },
+                    {
+                        "@type": "City",
+                        "name": "Fontaine-sur-Saône"
+                    },
+                    {
+                        "@type": "City",
+                        "name": "Couzon-au-mont-d'Or"
+                    },
+                    {
+                        "@type": "City",
+                        "name": "Poleymieu-au-mont-d'or"
+                    },
+                    {
+                        "@type": "City",
+                        "name": "Fontaine-saint-Martin"
+                    },
+                    {
+                        "@type": "City",
+                        "name": "Cailloux-sur-Fontaine"
+                    }
+                ],
+                "serviceType": ["Taxi Service", "Medical Transport", "Airport Transfer", "Railway Station Transfer"],
+                "hasOfferCatalog": {
+                    "@type": "OfferCatalog",
+                    "name": "Services de transport",
+                    "itemListElement": [
+                        {
+                            "@type": "Offer",
+                            "itemOffered": {
+                                "@type": "Service",
+                                "name": "Transport Taxi",
+                                "description": "Service de taxi pour tous vos déplacements"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "itemOffered": {
+                                "@type": "Service", 
+                                "name": "Transport VSL",
+                                "description": "Véhicule Sanitaire Léger pour transport médical"
+                            }
+                        },
+                        {
+                            "@type": "Offer",
+                            "itemOffered": {
+                                "@type": "Service",
+                                "name": "Transfer Aéroport Lyon",
+                                "description": "Transport vers aéroport Lyon Saint-Exupéry"
+                            }
+                        }
+                    ]
+                },
+                "openingHours": "Mo-Su 00:00-23:59",
+                "sameAs": []
+            },
+            {
+                "@type": "WebSite",
+                "@id": "https://taxi-neuvillesursaone.fr/#website",
+                "name": "Taxi Neuville-sur-Saône",
+                "url": "https://taxi-neuvillesursaone.fr/",
+                "description": "Site officiel du service de taxi Neuville-sur-Saône. Réservation en ligne, transport VSL, transferts aéroport et gare.",
+                "inLanguage": "fr",
+                "publisher": {
+                    "@id": "https://taxi-neuvillesursaone.fr/#business"
+                },
+                "potentialAction": {
+                    "@type": "SearchAction",
+                    "target": "https://taxi-neuvillesursaone.fr/search?q={search_term_string}",
+                    "query-input": "required name=search_term_string"
+                }
+            }
+        ]
+    }
+    </script>
+</head>
+<body>
+<header>
+    <div class="top-bar">
+        <p>✉ Email: <a href="mailto:sasutaxi6901@gmail.com">sasutaxi6901@gmail.com</a> | ☎ Téléphone: <a href="tel:+33783615926">07 83 61 59 26</a></p>
+    </div>
+    <div class="navbar">
+        <a href="index" class="left-header">
+            <img src="img/logo.png" alt="Taxi Neuville sur Saône Logo">
+            <div class="logo">Taxi Neuville sur Saône</div>
+        </a>
+        <nav>
+            <ul>
+                <li><a href="index">Accueil</a></li>
+                <li><a href="apropos">À propos</a></li>
+                <li><a href="services">Services</a></li>
+                <li><a href="reservation">Réservation</a></li>
+                <li><a href="contact">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<!-- Récupération de message du formulaire en utilisant un GET -->
+<?php if (isset($_GET['message'])): ?>
+    <?php
+        $message = $_GET['message'] ?? '';
+        $type = stripos($message, 'succès') !== false || stripos($message, 'réussie') !== false ? 'success' : 'error';
+    ?>
+    <span class="message-box">
+        <p class="form-message <?= $type; ?>"><?= htmlspecialchars($message); ?></p>
+    </span>
+<?php endif; ?>
+
+<section class="contact container">
+    <h1>Contactez-nous</h1>
+    <p>Vous avez des questions ou souhaitez réserver un trajet ? Envoyez-nous un message via le formulaire ci-dessous ou appelez-nous directement.</p><br>
+    <form action="contact-handle.php" method="POST" id="contactForm">
+        <label for="name">Nom :</label>
+        <input type="text" id="name" name="name" placeholder="Votre nom" required>
+
+        <label for="email">Email :</label>
+        <input type="email" id="email" name="email" placeholder="Votre email" required>
+
+        <label for="message">Message :</label>
+        <textarea id="message" name="message" rows="5" placeholder="Votre message" required></textarea>
+
+        <label for="phone">Téléphone :</label>
+        <input type="text" id="phone" name="phone" placeholder="Votre numéro de téléphone">
+
+        <button type="submit">Envoyer</button>
+    </form>
+</section>
+
+<footer class="footer">
+    <div class="footer-content">
+        <div class="footer-section">
+            <h3>🚖 Taxi Neuville-sur-Saône</h3>
+            <p>Votre <strong>service de taxi professionnel</strong> dans le <strong>Rhône Nord</strong>. Desserte quotidienne de Neuville-sur-Saône, Genay, Fleurieu-sur-Saône, Rochetaille-sur-Saône, et toutes les communes limitrophes.</p>
+        </div>
+        <div class="footer-section">
+            <h4>📍 Zones desservies</h4>
+            <ul>
+                <li>• Neuville-sur-Saône (siège)</li>
+                <li>• Genay</li>
+                <li>• Fleurieu-sur-Saône</li>
+                <li>• Rochetaille-sur-Saône</li>
+                <li>• Albigny-sur-Saône</li>
+                <li>• Fontaine-sur-Saône</li>
+                <li>• Couzon-au-mont-d'Or</li>
+                <li>• Poleymieu-au-mont-d'or</li>
+                <li>• Fontaine-saint-Martin</li>
+                <li>• Cailloux-sur-Fontaine</li>
+            </ul>
+        </div>
+        <div class="footer-section">
+            <h4>🚗 Services proposés</h4>
+            <ul>
+                <li>• Taxi traditionnel 24h/24</li>
+                <li>• Transport VSL médical</li>
+                <li>• Transfer aéroport Lyon</li>
+                <li>• Transport gare Lyon Part-Dieu</li>
+                <li>• Réservation en ligne</li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <p>&copy; 2025 <strong>Taxi Neuville-sur-Saône</strong> - Service de transport dans le Rhône Nord. Tous droits réservés.</p>
+        <p>📧 <a href="mailto:sasutaxi6901@gmail.com">sasutaxi6901@gmail.com</a> | ☎ <a href="tel:+33783615926">07 83 61 59 26</a> | 🕐 Disponible 24h/24, 7j/7</p>
+        <p><a href="mentions-legales.html">Mentions légales</a> | <a href="https://www.dosylia.com/" rel="nofollow">Site créé par Dosylia</a></p>
+    </div>
+    
+    <!-- Rich Snippets pour recherche locale -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Quel est le meilleur taxi à Neuville-sur-Saône ?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Notre service de taxi à Neuville-sur-Saône est reconnu pour sa ponctualité, ses tarifs transparents et sa disponibilité 24h/24. Nous desservons également Genay, Fleurieu-sur-Saône, Rochetaille et tout le Rhône Nord."
+                }
+            },
+            {
+                "@type": "Question", 
+                "name": "Comment réserver un taxi à Genay ou Fleurieu-sur-Saône ?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Réservez facilement votre taxi Genay ou taxi Fleurieu-sur-Saône via notre formulaire en ligne, par téléphone au 07 83 61 59 26, ou par email. Service disponible 24h/24."
+                }
+            }
+        ]
+    }
+    </script>
+</footer>
+</body>
+</html>
+
+<script>
+const form = document.getElementById('contactForm');
+
+form.addEventListener('submit', function(e) {
+  e.preventDefault();
+
+  grecaptcha.ready(function() {
+    grecaptcha.execute('6LeAdf8rAAAAAD7Dj6jmFp-qW9OOSU5ohIuyeTm5', {action: 'submit'}).then(function(token) {
+
+      const input = document.createElement('input');
+      input.type = 'hidden';
+      input.name = 'g-recaptcha-response';
+      input.value = token;
+      form.appendChild(input);
+
+      form.submit();
+    });
+  });
+});
+</script>
